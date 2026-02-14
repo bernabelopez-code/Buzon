@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Buzón Confiable Digital",
+  "description": "Una plataforma segura y anónima para la denuncia y seguimiento de casos laborales, diseñada para fomentar una cultura de transparencia y respeto.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
